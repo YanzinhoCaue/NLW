@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "fastify": "^4.17.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}

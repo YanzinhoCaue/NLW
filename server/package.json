@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "lint": "eslint src --ext .td --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.14.1",
+    "@types/node": "^20.1.7",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "prisma": "^4.14.1"
+  }
+}
