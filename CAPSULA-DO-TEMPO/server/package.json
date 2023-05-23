@@ -11,10 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@fastify/cors": "^8.2.1",
     "@prisma/client": "^4.14.1",
     "@types/node": "^20.1.7",
     "tsx": "^3.12.7",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "zod": "^3.21.4"
   },
   "devDependencies": {
     "prisma": "^4.14.1"
